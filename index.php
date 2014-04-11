@@ -5,4 +5,5 @@ define('APP_PATH','./app/');
 require('./ThinkPHP/ThinkPHP.php');
 echo 'hello world';
 echo 'this is the master';
+echo 'this is the branch';
 ?>
